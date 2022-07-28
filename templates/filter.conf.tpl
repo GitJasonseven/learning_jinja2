@@ -1,0 +1,1 @@
+{{ vendor_list | vendor_filter() }}
